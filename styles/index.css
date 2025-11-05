@@ -1,50 +1,9 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 body {
-    background: #000;
+    margin: 0;
 }
-.container {
+.box {
     margin: 20px auto;
-    width: 700px;
+    width: 300px;
     height: 400px;
-    background: #fff;
-    border-radius: 0 0 4px 4px;
-    border-top: 2px solid #fff;;
-    font-family: Montserrat;
-}
-.container-header {
-    padding: 20px;
-    text-align: center;
-    background: #bbb;
-    text-transform: uppercase;
-    font-weight: 700;
-}
-.point {
-    width: 16px;
-    height: 16px;
-    background-color: #000;
-    border-radius: 50%;
-}
-h1 {
-    font-size: 3em;
-    
-    letter-spacing: 1px;
-}
-h2 {
-    font-size: 2em;
-    letter-spacing: 2px;
-    color: #333;
-}
-p {
-    text-align: justify;
-    font-size: 20px;
-    padding: 20px;
-    font-weight: 400;
-}
-.text-center {
-    display: block;
-    text-align: center;
+    background: #e2e2e2;
 }
